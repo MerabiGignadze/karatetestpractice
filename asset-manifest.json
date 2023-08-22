@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/karatetestpractice/static/css/main.4bbd3b2c.css",
+    "main.js": "/karatetestpractice/static/js/main.60fd6be9.js",
+    "index.html": "/karatetestpractice/index.html",
+    "main.4bbd3b2c.css.map": "/karatetestpractice/static/css/main.4bbd3b2c.css.map",
+    "main.60fd6be9.js.map": "/karatetestpractice/static/js/main.60fd6be9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bbd3b2c.css",
+    "static/js/main.60fd6be9.js"
+  ]
+}
