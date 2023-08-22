@@ -1,0 +1,1102 @@
+{
+  "1": {
+    "description": "If the competition area is elevated another meter to a total of 3 meters is required on all sides.",
+    "value": true
+  },
+  "2": {
+    "description": "Any Voluntary religious headwear can be worn.",
+    "value": false
+  },
+  "3": {
+    "description": "The karate-Gi jacket must be more than three-quarters thigh length.",
+    "value": false
+  },
+  "4": {
+    "description": "The karate-Gi trousers must cover at least two-thirds of the shin.",
+    "value": true
+  },
+  "5": {
+    "description": "The karate-Gi jacket sleeve must be no longer than the bend of the wrist.",
+    "value": true
+  },
+  "6": {
+    "description": "If a contestant's karate-Gi jacket sleeves are too long and a suitable replacement cannot be found in time the Referee can allow him to turn them up on the inside.",
+    "value": false
+  },
+  "7": {
+    "description": "Competitors may wear 1 or 2 discreet rubber band or ponytail retainer in their hair. Ribbons, beads, and other decorations are prohibited.",
+    "value": true
+  },
+  "8": {
+    "description": "Earrings are allowed if they are covered with tape.",
+    "value": false
+  },
+  "9": {
+    "description": "Metallic teeth (dental) braces may be worn at the contestant's own risk if approved by the Referee and the Official Doctor.",
+    "value": true
+  },
+  "10": {
+    "description": "Contestants must bow properly to each other at the start and end of the bout.",
+    "value": true
+  },
+  "11": {
+    "description": "The coach may change the team fighting order during a round.",
+    "value": false
+  },
+  "12": {
+    "description": "If a contestant is injured in an individual match the coach can enter a replacement if he notifies the Organising Commission first.",
+    "value": false
+  },
+  "13": {
+    "description": "Each Judge must be equipped with a red and a blue flag or electronic signal device.",
+    "value": true
+  },
+  "14": {
+    "description": "If two teams have the same number of victories and points, a deciding bout will be held.",
+    "value": true
+  },
+  "15": {
+    "description": "The Match Supervisor (KANSA) will be seated just outside the safety area, will be equipped with only a whistle.",
+    "value": true
+  },
+  "16": {
+    "description": "Disqualification by KIKEN means that the contestants are disqualified from that category.",
+    "value": true
+  },
+  "17": {
+    "description": "Heels of more than 4 cm may not be worn with the uniform.",
+    "value": true
+  },
+  "18": {
+    "description": "Senior Male bouts are three minutes, and Women, Cadets, and Juniors, two minutes.",
+    "value": false
+  },
+  "19": {
+    "description": "Kumite team members may wear any type of Karate Gi.",
+    "value": false
+  },
+  "20": {
+    "description": "Different types of stripes may be used for team members.",
+    "value": true
+  },
+  "21": {
+    "description": "A competitor does not need to change the jacket if ties are torn off during the match.",
+    "value": true
+  },
+  "22": {
+    "description": "Competitors may wear any white Karate Gi.",
+    "value": false
+  },
+  "23": {
+    "description": "A fast combination of CHUDAN Geri and TSUKI each of which score in their own right will be given IPPON.",
+    "value": false
+  },
+  "24": {
+    "description": "In Senior matches, a light “glove touch” to the throat need not result in a warning or penalty provided there is no actual injury.",
+    "value": false
+  },
+  "25": {
+    "description": "A kick in the groin will not result in a penalty provided the offender did not do it intentionally.",
+    "value": false
+  },
+  "26": {
+    "description": "Starting 2023, for Competitors under 14 years of age, the WKF approved protective helmet is allowed and compulsory from 1.1.2024.",
+    "value": true
+  },
+  "27": {
+    "description": "If SENSHU is withdrawn when there are less than 15 seconds left of the bout, no further SENSHU can be awarded to either competitor.",
+    "value": true
+  },
+  "28": {
+    "description": "Should a competitor that has been awarded SENSHU receives a Category 2 warning for avoiding combat when there is less than 15 seconds left of the bout – the competitor will automatically forfeit this advantage.",
+    "value": false
+  },
+  "29": {
+    "description": "Voluntary religiously headwear must be approved by the WKF.",
+    "value": true
+  },
+  "30": {
+    "description": "The WKF Competition Supervisor, or the Organizing Commission, can allow Coaches to instead of the track suit top to use any t-shirt.",
+    "value": false
+  },
+  "31": {
+    "description": "HANSOKU-CHUI is given when the contestant's potential for winning has been seriously reduced by the opponent's foul.",
+    "value": true
+  },
+  "32": {
+    "description": "An “exchange” is the period preceding when the bout is halted, and the clock stopped.",
+    "value": true
+  },
+  "33": {
+    "description": "The weight tolerance admitted for male and female is 0.5 kg.",
+    "value": false
+  },
+  "34": {
+    "description": "HANSOKU is imposed for serious rules infractions.",
+    "value": true
+  },
+  "35": {
+    "description": "SHIKKAKU can only be imposed after a warning has been given.",
+    "value": false
+  },
+  "36": {
+    "description": "If a contestant acts maliciously, SHIKKAKU and not HANSOKU is the correct penalty.",
+    "value": true
+  },
+  "37": {
+    "description": "If a contestant acts maliciously, HANSOKU is the correct penalty.",
+    "value": false
+  },
+  "38": {
+    "description": "A competitor can be given SHIKKAKU if the behavior of the coach or non-combatant members of the contestant's delegation is considered to harm the prestige and honor of Karate-do.",
+    "value": false
+  },
+  "39": {
+    "description": "The same tolerance applies to both the upper and lower limits of a weight class.",
+    "value": true
+  },
+  "40": {
+    "description": "For individual competition, the Round-robin system followed by quarterfinals, semi-finals, and final is applied.",
+    "value": false
+  },
+  "41": {
+    "description": "There are five criteria to be met in determining a score.",
+    "value": false
+  },
+  "42": {
+    "description": "A male team must present a minimum of five competitors for the initial round.",
+    "value": true
+  },
+  "43": {
+    "description": "Male teams comprise five to seven members with five competing in a round.",
+    "value": true
+  },
+  "44": {
+    "description": "A female team must present a minimum of two competitors for the initial round.",
+    "value": false
+  },
+  "45": {
+    "description": "The maximum 32 Competitors per category are divided into 8 groups of 4 Competitors in the Round-robin system.",
+    "value": true
+  },
+  "46": {
+    "description": "If the coach continues to interfere after the first warning, the Referee will stop the bout, approach the coach again, and ask him/her to leave the tatami.",
+    "value": true
+  },
+  "47": {
+    "description": "If AKA scores just as AO steps outside of the match area, both the score and warning or penalty can be given.",
+    "value": true
+  },
+  "48": {
+    "description": "If a contestant has been physically propelled from the area, Jogai will be given.",
+    "value": false
+  },
+  "49": {
+    "description": "In Premier League competition, the losers to the finalists in the quarter- and semi-finals compete for the bronze medals.",
+    "value": true
+  },
+  "50": {
+    "description": "In cases where there is a tie between two or more Competitors in a group, having the same number of total points, the first criteria to consider is the highest World Ranking at the date of the competition.",
+    "value": false
+  },
+  "51": {
+    "description": "It is possible for a Competitor to be disqualified from a bout (HANSOKU) and continue the competition.",
+    "value": true
+  },
+  "52": {
+    "description": "A contestant who scores and exits the area before the Referee calls YAME will not receive JOGAI.",
+    "value": true
+  },
+  "53": {
+    "description": "Contestants cannot be given penalties after the time-up bell has signaled the end of a bout.",
+    "value": false
+  },
+  "54": {
+    "description": "In Junior competition, any technique to the face, head, or neck, which causes injury will be warned or penalized unless it is the recipient's own fault.",
+    "value": true
+  },
+  "55": {
+    "description": "In Cadet and Junior competition, Jodan kicks are allowed to make the lightest touch (“skin touch”) provided there is no injury.",
+    "value": true
+  },
+  "56": {
+    "description": "In Senior competition, a light touch is allowed for JODAN punches, and a greater tolerance is allowed for JODAN kicks.",
+    "value": false
+  },
+  "57": {
+    "description": "An already qualified Competitor cannot be disqualified for misconduct (SHIKKAKU) at the end of the Round-robin.",
+    "value": false
+  },
+  "58": {
+    "description": "If a variation of the competition format other than described in these rules is to be applied for a particular tournament, this has to be clearly announced in the tournament bulletin.",
+    "value": true
+  },
+  "59": {
+    "description": "A bad behavior from a coach does not cause a SHIKKAKU to his/her competitor, and the competitor does not need to be expelled from the match/bout.",
+    "value": true
+  },
+  "60": {
+    "description": "When the Judges see a score, they will immediately signal with joy sticks.",
+    "value": true
+  },
+  "61": {
+    "description": "The referee panel is composed of 1 Tatami Manager, 3 Tatami Manager Assistants.",
+    "value": false
+  },
+  "62": {
+    "description": "The Referee Panel for each match shall consist of one Referee, four Judges, and one Match Supervisor.",
+    "value": false
+  },
+  "63": {
+    "description": "If after the bout has started a contestant is found not to be wearing a gum-shield, the contestant will be disqualified.",
+    "value": false
+  },
+  "64": {
+    "description": "The Referee will give all commands and make all announcements.",
+    "value": true
+  },
+  "65": {
+    "description": "Duration of the Kumite bout is: 1.5 minutes for under 14 years and younger.",
+    "value": true
+  },
+  "66": {
+    "description": "If three Judges signal a score for AKA, the Referee must stop the bout even if he believes they are mistaken.",
+    "value": true
+  },
+  "67": {
+    "description": "If two or more Judges signal a score for the same competitor, the Referee must stop the bout.",
+    "value": true
+  },
+  "68": {
+    "description": "The timing of a bout starts when the Referee gives the signal to start and stops when the Referee calls “YAME” or when the time is up.",
+    "value": true
+  },
+  "69": {
+    "description": "The Referee Panel of a Kumite match shall consist of a Referee, four Judges, a Match Supervisor, and a Score Keeper.",
+    "value": true
+  },
+  "70": {
+    "description": "When a competitor slips and falls with the torso not touching the Tatami and is immediately scored upon, the opponent will be awarded Ippon.",
+    "value": true
+  },
+  "71": {
+    "description": "The competitor's coach or its official representative are the only ones allowed to make a protest.",
+    "value": true
+  },
+  "72": {
+    "description": "If the Referee does not hear the time-up signal, the Match Supervisor will blow the whistle.",
+    "value": false
+  },
+  "73": {
+    "description": "The Competitors only must bow properly to each other at the start of the bout.",
+    "value": false
+  },
+  "74": {
+    "description": "In individual matches, a contestant who withdraws voluntarily from the bout is declared KIKEN and an extra eight points are awarded to the opponent.",
+    "value": false
+  },
+  "75": {
+    "description": "Awareness is the state of continued commitment, which endures after the technique has landed.",
+    "value": true
+  },
+  "76": {
+    "description": "If the organizer has a check-up of equipment before the lineup, it is still KANSA'S responsibility to ensure that the equipment is in accordance with the rules.",
+    "value": true
+  },
+  "77": {
+    "description": "A contestant who stays within the match area may score on a contestant outside the match area.",
+    "value": true
+  },
+  "78": {
+    "description": "ATOSHI BARAKU means “15 seconds of bout time remaining”.",
+    "value": true
+  },
+  "79": {
+    "description": "ATOSHI BARAKU means “10 seconds of bout time remaining”.",
+    "value": false
+  },
+  "80": {
+    "description": "A “skin touch” to the throat is allowed only in Senior competition.",
+    "value": false
+  },
+  "81": {
+    "description": "If there are no points at the end of a bout in team matches, the Referee will call for HANTEI.",
+    "value": false
+  },
+  "82": {
+    "description": "Excessive contact after repeated failure to block is a consideration for MUBOBI.",
+    "value": true
+  },
+  "83": {
+    "description": "A contestant may be penalized for exaggeration even when there is an actual injury.",
+    "value": true
+  },
+  "84": {
+    "description": "The Referee declares the winner; “AO (AKA) NO KACHI”, and if necessary, breaks the tie in case of HANTEI.",
+    "value": true
+  },
+  "85": {
+    "description": "In the event of a tied score at the end of an inconclusive bout, the Referee Panel (the Referee and the four Judges) will decide the bout by HANTEI.",
+    "value": true
+  },
+  "86": {
+    "description": "When the Referee Panel has made a decision not in accordance with the Rules of Competition, the Match Supervisor (KANSA) will immediately blow his whistle.",
+    "value": true
+  },
+  "87": {
+    "description": "A competitor should not be penalized for being winded (loss of breath as a consequence of a technique) or simply reacting to an impact even if the technique merited a point by the opponent.",
+    "value": true
+  },
+  "88": {
+    "description": "In team matches, there is no extra bout.",
+    "value": false
+  },
+  "89": {
+    "description": "Only the first correctly executed technique of a combination will score.",
+    "value": false
+  },
+  "90": {
+    "description": "Competitors that appear at the competition area with unauthorized equipment or irregular Karate-Gi will be given one minute to correct the attire, and the Coach will automatically lose the right to coach that bout.",
+    "value": false
+  },
+  "91": {
+    "description": "Competitors that are winded as a result of an impact should be allowed time to catch their breath before the bout is resumed.",
+    "value": true
+  },
+  "92": {
+    "description": "JODAN is described as the shoulders and the area above the collarbone.",
+    "value": false
+  },
+  "93": {
+    "description": "IPPON is awarded for JODAN kicks or any techniques against an opponent whose any part of the body other than the feet is in contact with the TATAMI.",
+    "value": true
+  },
+  "94": {
+    "description": "HANSOKU CHUI will be given for feigning of injury.",
+    "value": false
+  },
+  "95": {
+    "description": "HANSOKU will be given for the first instance of exaggerating an injury.",
+    "value": false
+  },
+  "96": {
+    "description": "A loss of breath by the recipient of a blow after receiving a CHUDAN technique does indicate a lack of control.",
+    "value": false
+  },
+  "97": {
+    "description": "A competitor can be given Hansoku directly for exaggerating the effects of injury.",
+    "value": true
+  },
+  "98": {
+    "description": "A technique, even if effective, delivered after an order to suspend or halt the bout shall not be scored and may result in a penalty being imposed on the offender.",
+    "value": true
+  },
+  "99": {
+    "description": "In Cadet Kumite, JODAN kicks are allowed to make a “skin touch” provided there is no injury.",
+    "value": true
+  },
+  "100": {
+    "description": "Before the start of a match or bout, the Tatami Manager should examine the competitor's medical card.",
+    "value": true
+  },
+  "101": {
+    "description": "If there is an error in charting and the wrong contestants compete, this cannot be changed afterward.",
+    "value": false
+  },
+  "102": {
+    "description": "An effective technique delivered at the same time as the end of the bout is signaled by the buzzer is valid.",
+    "value": true
+  },
+  "103": {
+    "description": "If a contestant is injured and it is considered to be their own fault (MUBOBI), the Referee will decline to give a warning or penalty to the opponent.",
+    "value": true
+  },
+  "104": {
+    "description": "KANSA has no vote or authority in matters of judgments such as whether a score was valid or not.",
+    "value": true
+  },
+  "105": {
+    "description": "YUKO is always awarded for punches on the back.",
+    "value": false
+  },
+  "106": {
+    "description": "“Skin touch” is allowed in categories for Competitors 16 years or older.",
+    "value": true
+  },
+  "107": {
+    "description": "A contestant who does not obey the Referee's orders will be given SHIKKAKU.",
+    "value": true
+  },
+  "108": {
+    "description": "The Score Supervisor will order the Referee to halt the match when he sees a contravention of the Rules of Competition.",
+    "value": false
+  },
+  "109": {
+    "description": "If in a combination, the first technique merits a YUKO and the second merits a penalty, both shall be given.",
+    "value": false
+  },
+  "110": {
+    "description": "Skin touch is defined as touching the target without transferring energy into the head or body.",
+    "value": true
+  },
+  "111": {
+    "description": "It is not possible to score while lying on the floor.",
+    "value": false
+  },
+  "112": {
+    "description": "A competitor not wearing the WKF approved equipment will be given two minutes to change for the approved type.",
+    "value": true
+  },
+  "113": {
+    "description": "A contestant injured in Kumite and withdrawn under the ten-second rule may not compete in the Kata competition.",
+    "value": false
+  },
+  "114": {
+    "description": "An injured contestant who has been declared unfit to fight by the Tournament Doctor cannot fight again in that competition.",
+    "value": true
+  },
+  "115": {
+    "description": "If a competitor behaves badly on the competition area after the end of the match or bout, the Referee can still give SHIKKAKU.",
+    "value": true
+  },
+  "116": {
+    "description": "The Match Supervisor has a vote in cases of SHIKKAKU.",
+    "value": false
+  },
+  "117": {
+    "description": "In Male team matches if a team wins three bouts, then the match is over at that point.",
+    "value": true
+  },
+  "118": {
+    "description": "In Female team matches if a team wins two bouts, then the match is over at that point.",
+    "value": true
+  },
+  "119": {
+    "description": "When a contestant seizes the opponent and does not perform an immediate technique or throw, the Referee will call “YAME”.",
+    "value": true
+  },
+  "120": {
+    "description": "When a Judge is not sure that a technique actually reached a scoring area, s/he may signal for the score.",
+    "value": true
+  },
+  "121": {
+    "description": "A contestant who commits an act that harms the prestige and honor of Karate-Do will be given HANSOKU.",
+    "value": false
+  },
+  "122": {
+    "description": "When an action of a contestant is considered to be dangerous and deliberately violates the rules concerning prohibited behavior, the contestant will be given Shikkaku.",
+    "value": true
+  },
+  "123": {
+    "description": "Correctly executed techniques executed after the time-up signal are valid.",
+    "value": false
+  },
+  "124": {
+    "description": "Correctly executed techniques executed upon or after “WAKARETE” are valid.",
+    "value": false
+  },
+  "125": {
+    "description": "A point may be signaled even if the Judge cannot see the actual point of impact.",
+    "value": true
+  },
+  "126": {
+    "description": "At HANTEI if three Judges signal victory for AKA and the fourth Judge signals victory for AO, the Referee must give victory for AKA.",
+    "value": true
+  },
+  "127": {
+    "description": "Passivity cannot be given to someone having a lead by point or SENSHU.",
+    "value": true
+  },
+  "128": {
+    "description": "Only the Coach designated for the specific bout is allowed to coach and guide the competitor from the place allocated to the coach close to the competition area.",
+    "value": true
+  },
+  "129": {
+    "description": "If a contestant does not regain his or her feet within ten seconds, the Referee will announce “KIKEN” and “KACHI” to the opponent.",
+    "value": false
+  },
+  "130": {
+    "description": "If a competitor is thrown and lands partly outside the match area, the Referee will immediately call “YAME”.",
+    "value": false
+  },
+  "131": {
+    "description": "The Competitor may not signal to the Coach the wish for him/her to request a video review.",
+    "value": false
+  },
+  "132": {
+    "description": "The contestants should be examined outside the tatami.",
+    "value": true
+  },
+  "133": {
+    "description": "KANSA has to blow the whistle if the Judges are holding the joy sticks in the wrong hands.",
+    "value": true
+  },
+  "134": {
+    "description": "Gum-shields (mouth guards) are obligatory for all Kumite contestants.",
+    "value": true
+  },
+  "135": {
+    "description": "After a throw, the Referee will allow a maximum of two seconds for a score to be made.",
+    "value": false
+  },
+  "136": {
+    "description": "If a competitor scores with a strong side kick and propels the opponent out of the area, the Referee should award WAZA-ARI and give the opponent a warning or penalty for Jogai.",
+    "value": false
+  },
+  "137": {
+    "description": "When an official protest is lodged, the ensuing matches must be delayed until the result of the protest is given.",
+    "value": false
+  },
+  "138": {
+    "description": "Each Judge will be seated in the corners of the TATAMI.",
+    "value": true
+  },
+  "139": {
+    "description": "When the Referee awards a point for a technique that has caused injury, the Match Supervisor should signal for the match to be stopped.",
+    "value": true
+  },
+  "140": {
+    "description": "When the Referee fails to hear the “time-up” bell, the Scorekeeper should blow his whistle.",
+    "value": false
+  },
+  "141": {
+    "description": "WAKARETE for breaking up a clinch can be given at any time of the bout.",
+    "value": true
+  },
+  "142": {
+    "description": "When the Referee wants to give SHIKKAKU, she/he may call the Judges for a brief consultation.",
+    "value": true
+  },
+  "143": {
+    "description": "When a competitor is injured during a bout in progress and needs medical treatment, three minutes will be given in which to receive it. After that, the Referee will decide whether the competitor will be declared unfit to fight or whether more time will be given.",
+    "value": true
+  },
+  "144": {
+    "description": "A contestant who exits the area (JOGAI) with less than 15 seconds of bout time remaining will be given a minimum of CHUI.",
+    "value": false
+  },
+  "145": {
+    "description": "To correct a score given to the wrong contestant, the Referee should turn towards the contestant given the score in error, make the sign of TORIMASEN, and then give the score to the opponent.",
+    "value": true
+  },
+  "146": {
+    "description": "If a competitor scores with a well-controlled CHUDAN Geri, then accidentally punches his opponent in the face causing a slight injury, WAZA-ARI and a warning should be given.",
+    "value": false
+  },
+  "147": {
+    "description": "When an injured contestant has been given medical treatment and the Official Doctor says that the contestant can continue fighting, the Referee cannot over-rule the Doctor's decision.",
+    "value": false
+  },
+  "148": {
+    "description": "The Referee can stop the bout even if the Judges do not signal.",
+    "value": true
+  },
+  "149": {
+    "description": "Once WAKARETE is called by the Referee, the Coaches do not have the opportunity to make a video request.",
+    "value": true
+  },
+  "150": {
+    "description": "“Avoiding Combat” refers to a situation where a contestant attempts to prevent the opponent from having the opportunity to score by using time-wasting behaviour.",
+    "value": true
+  },
+  "151": {
+    "description": "TSUZUKTETE, unless preceded by WAKARETE, is not used if there is less than 15 seconds left of the bout.",
+    "value": true
+  },
+  "152": {
+    "description": "In team matches, if two contestants injure each other and cannot continue, and the points score is equal, the Referee will announce HIKIWAKE.",
+    "value": false
+  },
+  "153": {
+    "description": "When there are less than 15 seconds of bout time remaining and a losing competitor, desperately trying to equalize, exits the area (JOGAI), they will be given a minimum of HANSOKU-CHUI.",
+    "value": true
+  },
+  "154": {
+    "description": "Techniques that land below the belt cannot score.",
+    "value": false
+  },
+  "155": {
+    "description": "Techniques that land on the shoulder blade can score.",
+    "value": true
+  },
+  "156": {
+    "description": "If AKA accidentally kicks AO on the hip and AO cannot continue the bout, then AO will be given KIKEN (the information is missing).",
+    "value": false
+  },
+  "157": {
+    "description": "If a contestant is obviously out of breath due to lack of endurance, the Referee should stop the match to give him time to recover.",
+    "value": false
+  },
+  "158": {
+    "description": "A contestant who establishes a clear lead of eight points is declared the winner.",
+    "value": true
+  },
+  "159": {
+    "description": "When time is up, the contestant who has scored the most points is declared the winner.",
+    "value": true
+  },
+  "160": {
+    "description": "An otherwise correctly executed technique will be penalized if executed at the same time as WAKARETE has been called.",
+    "value": false
+  },
+  "161": {
+    "description": "There are two degrees of official warnings.",
+    "value": true
+  },
+  "162": {
+    "description": "CHUI is given, up to three times, for smaller infractions.",
+    "value": true
+  },
+  "163": {
+    "description": "HANSOKU CHUI cannot be given if three CHUI has not already been given.",
+    "value": false
+  },
+  "164": {
+    "description": "A warning or penalty for MUBOBI is only given when a competitor is hit or injured through his own fault or negligence.",
+    "value": true
+  },
+  "165": {
+    "description": "A competitor who is hit through their own fault and exaggerates the effect should receive a warning or penalty for MUBOBI or exaggeration but not both.",
+    "value": false
+  },
+  "166": {
+    "description": "If a competitor makes a good CHUDAN kick and the opponent catches the leg, a score cannot be given.",
+    "value": false
+  },
+  "167": {
+    "description": "A competitor makes a JODAN kick with all six scoring criteria. The opponent puts his hand up to intercept the kick and the hand then lightly hits his own face; the Referee can give IPPON since the kick was not effectively blocked.",
+    "value": false
+  },
+  "168": {
+    "description": "A male team can compete with only two competitors.",
+    "value": false
+  },
+  "169": {
+    "description": "Authorized advertising for WKF is displayed on the left sleeve of the Karate-Gi.",
+    "value": true
+  },
+  "170": {
+    "description": "National Federations are not allowed to put advertising on the competitor's Karate-Gi.",
+    "value": false
+  },
+  "171": {
+    "description": "A Kumite competitor who receives KIKEN cannot compete again in that tournament. (The information is missing.)",
+    "value": false
+  },
+  "172": {
+    "description": "An extra bout is used only for team matches.",
+    "value": true
+  },
+  "173": {
+    "description": "KANSA needs to blow the whistle if the Referee gives a score to a competitor and MUBOBI to the other.",
+    "value": true
+  },
+  "174": {
+    "description": "Serious violation of conduct, discipline, or malicious behavior merits a HANSOKU CHUI.",
+    "value": false
+  },
+  "175": {
+    "description": "In international competitions, the Referee must not have the same nationality as either of the competitors although one of the Judges can if both coaches agree.",
+    "value": false
+  },
+  "176": {
+    "description": "The Match Supervisor (KANSA) will line up together with the Referee and the Judges.",
+    "value": false
+  },
+  "177": {
+    "description": "The coaches will be seated outside the safety area, on their respective sides facing towards the official table.",
+    "value": true
+  },
+  "178": {
+    "description": "KANSA does not need to interfere if the Referee gives a score to a competitor and exaggeration to the other.",
+    "value": false
+  },
+  "179": {
+    "description": "In team matches, the Panel will rotate for each bout - provided that all hold the required license.",
+    "value": false
+  },
+  "180": {
+    "description": "In team matches, the Panel will rotate for each bout only in bouts for medals. (The information is missing.)",
+    "value": false
+  },
+  "181": {
+    "description": "The Referee can move about the entire tatami, including the safety zones.",
+    "value": true
+  },
+  "182": {
+    "description": "Female competitors must have a chest protector.",
+    "value": true
+  },
+  "183": {
+    "description": "Female competitors don't have to have a chest protector if they have a body protector.",
+    "value": false
+  },
+  "184": {
+    "description": "The red and blue belts must be without any personal embroideries or markings.",
+    "value": true
+  },
+  "185": {
+    "description": "When a situation appears to possibly warrant a disqualification, the Referee can call one or more of the judges for a brief consultation (FUKUSHIN SHUGO) before announcing any decision.",
+    "value": true
+  },
+  "186": {
+    "description": "Contestants must wear a white Karate-Gi without personal embroidery.",
+    "value": true
+  },
+  "187": {
+    "description": "Personal embroidery in the Karate-Gi is allowed only in bouts for medals.",
+    "value": false
+  },
+  "188": {
+    "description": "Where contact is considered by the Referee to be too strong but does not diminish the Competitor's chances of winning, a warning (CHUI) can be given.",
+    "value": true
+  },
+  "189": {
+    "description": "Any technique which results in injury, unless caused by the recipient, will cause a warning or penalty.",
+    "value": true
+  },
+  "190": {
+    "description": "An obvious overreaction to contact will receive a CHUI.",
+    "value": false
+  },
+  "191": {
+    "description": "Judges cannot indicate a score or warning before the Referee stops the bout.",
+    "value": false
+  },
+  "192": {
+    "description": "An obvious display of exaggeration will receive a HANSOKU.",
+    "value": false
+  },
+  "193": {
+    "description": "Any instance of feigning an injury, however slight, will receive a minimum warning of CHUI.",
+    "value": true
+  },
+  "194": {
+    "description": "An obvious display of any feigning such as staggering around, falling on the floor, standing up and falling down again, and so on, will receive SHIKKAKU directly.",
+    "value": true
+  },
+  "195": {
+    "description": "Any feigning of an injury from a technique that, in fact, has been determined by the judges as a point will, at a minimum, result in HANSOKU CHUI.",
+    "value": true
+  },
+  "196": {
+    "description": "If a contestant scores with more than one consecutive technique before YAME, the Judges must show the higher point regardless of which sequence the techniques scored.",
+    "value": true
+  },
+  "197": {
+    "description": "In team matches, if after the extra bout there are no scores, or it is equal scores with no SENSHU, the match will be decided by HANTEI.",
+    "value": true
+  },
+  "198": {
+    "description": "JOGAI occurs when a contestant exits from the competition area, and it is not caused by the opponent.",
+    "value": true
+  },
+  "199": {
+    "description": "The minimum warning for running away, avoiding combat, or wasting time during ATOSHI BARAKU is HANSOKU CHUI.",
+    "value": true
+  },
+  "200": {
+    "description": "The pivotal point of the throw must not be above the thrower's hip level, and the opponent must be held onto throughout, so that a safe landing can be made.",
+    "value": true
+  },
+  "201": {
+    "description": "Holding on to the opponent's Karate Gi is not permitted to break a fall.",
+    "value": false
+  },
+  "202": {
+    "description": "KANSA does not need to interfere if the Referee gives a score for a technique done after the time is up.",
+    "value": false
+  },
+  "203": {
+    "description": "YUKO is worth one point.",
+    "value": true
+  },
+  "204": {
+    "description": "WAZA-ARI is worth two points.",
+    "value": true
+  },
+  "205": {
+    "description": "IPPON is worth three points.",
+    "value": true
+  },
+  "206": {
+    "description": "It is the duty of the Match Supervisor to ensure before each match or bout that the competitors are wearing the approved equipment.",
+    "value": true
+  },
+  "207": {
+    "description": "It is the duty of the Tatami Manager to ensure before each match or bout that the competitors are wearing the approved equipment.",
+    "value": false
+  },
+  "208": {
+    "description": "Coaches must present their accreditation together with that of their competitor or team to the official table.",
+    "value": false
+  },
+  "209": {
+    "description": "WAZA-ARI is awarded for CHUDAN Kicks.",
+    "value": true
+  },
+  "210": {
+    "description": "YUKO is awarded for any TSUKI or UCHI delivered to any of the seven scoring areas against a competitor that is standing up or off his/her feet, and the torso is not on the mat.",
+    "value": false
+  },
+  "211": {
+    "description": "IPPON is awarded for JODAN GERI and scoring techniques which are delivered on an opponent who has been thrown, has fallen of their own accord, or is otherwise off their feet.",
+    "value": true
+  },
+  "212": {
+    "description": "Individual bouts cannot be declared a tie.",
+    "value": false
+  },
+  "213": {
+    "description": "Passivity can be given to any Competitor at any time.",
+    "value": false
+  },
+  "214": {
+    "description": "Passivity cannot be given during the first 15 seconds of a bout.",
+    "value": true
+  },
+  "215": {
+    "description": "Simulated attacks with the head, knees, or elbows are offenses.",
+    "value": true
+  },
+  "216": {
+    "description": "Avoiding combat during the last 15 seconds of the bout (ATO SHIBARAKU) will, at a minimum, result in HANSOKU CHUI and loss of SENSHU.",
+    "value": true
+  },
+  "217": {
+    "description": "The Head Coach of a delegation can protest about a judgment to the members of the Refereeing Panel.",
+    "value": false
+  },
+  "218": {
+    "description": "In a Kumite Tatami two mats are inverted with the red side turned up in a one-meter distance from the mat center to form a boundary between the contestants.",
+    "value": true
+  },
+  "219": {
+    "description": "Jacket ties must be tied.",
+    "value": true
+  },
+  "220": {
+    "description": "At the beginning of a bout, Jackets without ties can be used.",
+    "value": false
+  },
+  "221": {
+    "description": "In individual competition, a contestant may be replaced by another after the drawing has taken place.",
+    "value": false
+  },
+  "222": {
+    "description": "At medal bouts, male coaches are required to wear a dark suit, shirt, and tie.",
+    "value": true
+  },
+  "223": {
+    "description": "At medal bouts, female coaches may choose to wear a dress, pantsuit, or a combination of jacket and skirt in dark colors.",
+    "value": true
+  },
+  "224": {
+    "description": "At medal bouts, female coaches cannot wear religious headwear.",
+    "value": false
+  },
+  "225": {
+    "description": "A competitor that refuses to follow the instructions of the Referee or displays a loss of temper will automatically receive HANSOKU.",
+    "value": false
+  },
+  "226": {
+    "description": "Competitors are not entitled to a period of time between matches, equal to the standard duration time of the match, for the purpose of rest.",
+    "value": false
+  },
+  "227": {
+    "description": "Passivity cannot be given after less than the last 15 seconds of the match.",
+    "value": true
+  },
+  "228": {
+    "description": "Any excessive celebration, such as falling on one's knees etc., political, or religious expressions, during or immediately after the bout or match, are prohibited and may be subject to a fine equal to the protest fee determined by EC.",
+    "value": true
+  },
+  "229": {
+    "description": "If a competitor receives KIKEN, HANSOKU, or SHIKKAKU, in Round-robin competition all previous bouts are voided from the result.",
+    "value": false
+  },
+  "230": {
+    "description": "Grabbing the opponent's arm or Karate-GI with one hand is only allowed for attempting an immediate scoring technique or takedown.",
+    "value": true
+  },
+  "231": {
+    "description": "Grabbing the opponent with both hands is never allowed during the match.",
+    "value": false
+  },
+  "232": {
+    "description": "It is the Tatami Manager's duty to appoint the video review supervisor.",
+    "value": true
+  },
+  "233": {
+    "description": "Should the number of IPPON and WAZA ARI be equal, the decision will be by HANTEI.",
+    "value": true
+  },
+  "234": {
+    "description": "In any individual bout, with an equal score, and no SENSHU by either competitor, the first criteria of the decision will be made based on the higher number of IPPON scored in the bout.",
+    "value": true
+  },
+  "235": {
+    "description": "If one competitor has a score indicated by more than one judge, and the score is different between the judges, the higher score will be applied.",
+    "value": true
+  },
+  "236": {
+    "description": "The Tatami Manager must notify the central table when a competitor has been stopped from further competition based on the 10-second rule.",
+    "value": true
+  },
+  "237": {
+    "description": "The timekeeper is responsible for starting the 3-minute count for a competitor who is injured during a bout in progress and requires medical treatment.",
+    "value": false
+  },
+  "238": {
+    "description": "The Referee will call YAME when a contestant seizes the opponent and does not perform an immediate technique or throw.",
+    "value": true
+  },
+  "239": {
+    "description": "The Referee indicates the winner by hand signal and the order (AKA/AO NO KACHI), and by this action also resolves any tie.",
+    "value": true
+  },
+  "240": {
+    "description": "When a contestant seizes the opponent, the Referee will give several seconds for the contestant to perform a throw or technique.",
+    "value": false
+  },
+  "241": {
+    "description": "The Coach / NF representative will request the official protest from the Tatami Manager.",
+    "value": true
+  },
+  "242": {
+    "description": "The Referee can stop the match and give a point without the Judges' opinion.",
+    "value": false
+  },
+  "243": {
+    "description": "If the referee does not call the doctor in a 10-second rule situation, Kansa must blow the whistle.",
+    "value": true
+  },
+  "244": {
+    "description": "The winning team is the one with the most bout victories, excluding those won by SENSHU.",
+    "value": false
+  },
+  "245": {
+    "description": "The red and blue belts must be no longer than three-quarters thigh length.",
+    "value": true
+  },
+  "246": {
+    "description": "Failure of a Coach / NF representative to deliver a protest in a timely manner can lead to its rejection.",
+    "value": true
+  },
+  "247": {
+    "description": "The correct penalty for feigning an injury when the judges have determined that the technique, in fact, was a score is HANSOKU.",
+    "value": false
+  },
+  "248": {
+    "description": "The information of officials implicated in the protest is completed by the Tatami Manager.",
+    "value": true
+  },
+  "249": {
+    "description": "Disqualification by KIKEN means that the contestants are disqualified from that category, although it does not affect participation in another category.",
+    "value": true
+  },
+  "250": {
+    "description": "Competitors are entitled to a rest period of time between matches, equal to the standard duration time of the match. The exception is in the case of a change of equipment color, where this time is extended to five minutes.",
+    "value": true
+  },
+  "251": {
+    "description": "In any bout, if after full time the scores are equal, but one contestant has obtained “first unopposed score advantage” (SENSHU), that contestant will be declared the winner.",
+    "value": true
+  },
+  "252": {
+    "description": "By “first unopposed score advantage” (SENSHU) is understood that one contestant has achieved the first instance of scoring on the opponent without having the opponent also score before the signal.",
+    "value": true
+  },
+  "253": {
+    "description": "Where both contestants score before the signal, no “first unopposed score advantage” is awarded, and both contestants retain the possibility of SENSHU later in the bout.",
+    "value": true
+  },
+  "254": {
+    "description": "In the event that a competitor falls, is thrown, or knocked down and does not regain his or her feet immediately, the Referee will call the doctor, and at the same time, start a count to ten indicating his count showing a finger for each second.",
+    "value": false
+  },
+  "255": {
+    "description": "An audible signal will be given by the timekeeper 15 seconds before the actual end of the bout, and the Referee will announce “ATOSHI BARAKU”.",
+    "value": true
+  },
+  "256": {
+    "description": "Kansa must remain silent if the referee gives a warning or penalty for passivity during ATOSHI BARAKU.",
+    "value": false
+  },
+  "257": {
+    "description": "In individual categories, a bout can be declared a tie.",
+    "value": false
+  },
+  "258": {
+    "description": "For all competition systems, the Coach will be allowed one video review card for the athlete.",
+    "value": true
+  },
+  "259": {
+    "description": "For Round-robin in groups of four, the Coach will be allowed one VR card for each participant in the round-robin phase.",
+    "value": true
+  },
+  "260": {
+    "description": "The Competitor may ask the Coach to request a video review discretely.",
+    "value": true
+  },
+  "261": {
+    "description": "The video review can be requested by the Coach in instances where the Judges awarded a lower score than, in the opinion of the Coach, should be for a higher scoring technique.",
+    "value": true
+  },
+  "262": {
+    "description": "The Video Review Supervisor may only award points if scoring before or simultaneously with the other Competitor.",
+    "value": false
+  },
+  "263": {
+    "description": "The last 6 seconds before the bout was stopped for the request will always be evaluated for Video Review.",
+    "value": true
+  },
+  "264": {
+    "description": "If both Coaches request video review at the same time, the Video Supervisor may only award the point to whoever is deemed to score first.",
+    "value": true
+  },
+  "265": {
+    "description": "Simultaneous scoring techniques can be awarded to both Competitors in Video Review.",
+    "value": true
+  },
+  "266": {
+    "description": "The Video Review Supervisor may not overrule any decision by the corner judges with the exception of SENSHU.",
+    "value": true
+  },
+  "267": {
+    "description": "Tatami manager must supervise that KANSA stops the bout to instruct the Referee regarding a contravention of the Rules of Competition.",
+    "value": true
+  },
+  "268": {
+    "description": "Referee indicates fouls observed and imposes warning and penalties as required by the rules.",
+    "value": true
+  },
+  "269": {
+    "description": "Referee breaks the tie in case of HANTEI.",
+    "value": true
+  },
+  "270": {
+    "description": "It is always KANSA'S responsibility to ensure that the equipment is in accordance with the rules before each bout.",
+    "value": true
+  },
+  "271": {
+    "description": "In the event that the Referee does not hear the time-up bell, KANSA will blow his whistle.",
+    "value": false
+  },
+  "272": {
+    "description": "In two judging system, the Corner Judges will assist the Referee by giving signals for JOGAI, excessive contact, and skin touch for categories where this contravenes the rules.",
+    "value": true
+  },
+  "273": {
+    "description": "In two judging system, the Referee remains autonomous in applying warnings and penalties.",
+    "value": true
+  },
+  "274": {
+    "description": "In two judging system, if the two Judges, or one Judge and the Referee, show different points for the same competitors, the higher will be given.",
+    "value": true
+  },
+  "275": {
+    "description": "In two judging system, if the two Judges, or one Judge and the Referee show different warnings for the same competitor, the lower will be given.",
+    "value": false
+  }
+}

@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa");
+
+body {
+  background-color: #273136;
+  font-family: "Comfortaa", sans-serif;
+}
+
+.centered-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Set the container height to 100% of the viewport height */
+  background-color: #273136;
+  color: azure;
+}
+.next-button {
+  margin-top: 20px;
+  background-color: aquamarine;
+  border: 0px solid #333;
+  padding: 10px;
+  font-weight: bold;
+  font-size: large;
+  color: rgb(36, 36, 36);
+  border-radius: 10px;
+}
+.question-counter {
+  background-color: rgb(126, 227, 101);
+  border: 0px solid #333;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+.error-counter {
+  background-color: rgb(231, 91, 91);
+  border: 0px solid #333;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+/* Customize the checkbox styles */
+input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 16px; /* Set the desired width */
+  height: 16px; /* Set the desired height */
+  background-color: #f0f0f0; /* Set the background color of the checkbox */
+  border: 1px solid #ccc; /* Set the border color of the checkbox */
+  border-radius: 3px; /* Add some rounded corners */
+  margin-right: 5px; /* Add spacing between checkbox and label */
+}
+
+/* Customize the appearance when the checkbox is checked */
+input[type="checkbox"]:checked {
+  background-color: #fff833; /* Change the background color when checked */
+  border-color: #fff833; /* Change the border color when checked */
+}
+.bottom-fill-bar {
+  width: 100%;
+  height: 20px; /* Set the desired height of the fill bar */
+  background-color: #fff833; /* Set the desired fill color */
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  transition: width 1s linear; /* Add this line for the transition */
+}
+.disable-transition {
+  transition: none;
+}
+.incorrect-questions {
+  margin-top: 20px;
+}
+
+.question-id-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.question-id {
+  margin-bottom: 5px;
+  background-color: rgb(228, 54, 54);
+  color: azure;
+  padding: 4px 8px;
+  border-radius: 4px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
