@@ -3,8 +3,8 @@ import { createRoot } from "react-dom/client";
 import questionData from "./kumiteQuestions";
 import "./App.css";
 
-const maxQuestions = 60;
-const maxErrors = 3;
+const maxQuestions = 70;
+const maxErrors = 6;
 const timeForEachQuestion = 17;
 
 const App = function () {

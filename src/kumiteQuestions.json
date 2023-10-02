@@ -620,7 +620,7 @@
     "value": true
   },
   "156": {
-    "description": "If AKA accidentally kicks AO on the hip and AO cannot continue the bout, then AO will be given KIKEN (the information is missing).",
+    "description": "If AKA accidentally kicks AO on the hip and AO cannot continue the bout, then AO will be given KIKEN",
     "value": false
   },
   "157": {
@@ -680,7 +680,7 @@
     "value": false
   },
   "171": {
-    "description": "A Kumite competitor who receives KIKEN cannot compete again in that tournament. (The information is missing.)",
+    "description": "A Kumite competitor who receives KIKEN cannot compete again in that tournament.",
     "value": false
   },
   "172": {
@@ -716,7 +716,7 @@
     "value": false
   },
   "180": {
-    "description": "In team matches, the Panel will rotate for each bout only in bouts for medals. (The information is missing.)",
+    "description": "In team matches, the Panel will rotate for each bout only in bouts for medals.",
     "value": false
   },
   "181": {
