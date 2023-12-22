@@ -16,7 +16,7 @@ body {
 }
 .next-button {
   margin-top: 20px;
-  background-color: aquamarine;
+  background-color: rgb(255, 221, 127);
   border: 0px solid #333;
   padding: 10px;
   font-weight: bold;
@@ -25,7 +25,7 @@ body {
   border-radius: 10px;
 }
 .question-counter {
-  background-color: rgb(126, 227, 101);
+  background-color: rgb(227, 225, 101);
   border: 0px solid #333;
   padding: 10px;
   font-weight: bold;
