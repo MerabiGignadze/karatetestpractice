@@ -18,6 +18,7 @@ const App = function () {
   const [displayedQuestions, setDisplayedQuestions] = useState([]);
   const [incorrectQuestionIds, setIncorrectQuestionIds] = useState("");
   const [resetFlag, setResetFlag] = useState(false);
+  const [skippedQuestion, setSkippedQuestion] = useState(false);
 
   useEffect(() => {
     if (resetFlag) {
@@ -36,9 +37,7 @@ const App = function () {
       const formattedMistakes = incorrectIndexes
         .map(
           (index) =>
-            `Question ${index - 1} : Question ${
-              questionData[index - 1].description
-            }`
+            `Question ${index - 1}: ${questionData[index - 1].description}`
         )
         .join("\n\n");
 
@@ -85,6 +84,7 @@ const App = function () {
 
     setDisplayedQuestions([...displayedQuestions, randomId]);
     setQuestionCounter(questionCounter + 1);
+    setSkippedQuestion(false); // Reset skipped state when getting a new question
 
     return questionData[randomId];
   };
@@ -93,8 +93,14 @@ const App = function () {
     setSelectedAnswer(answer);
   };
 
-  const evaluateAnswer = () => {
-    if (selectedAnswer === null) {
+  const skipQuestion = () => {
+    evaluateAnswer(true); // Passing true to indicate that the question was skipped
+  };
+
+  const evaluateAnswer = (skipped = false) => {
+    setSkippedQuestion(skipped);
+
+    if (skipped) {
       setErrorCounter(errorCounter + 1);
       setIncorrectQuestionIds(
         (prevIds) =>
@@ -102,7 +108,7 @@ const App = function () {
           (prevIds ? "_" : "") +
           displayedQuestions[questionCounter - 1]
       );
-    } else if (randomQuestion !== null && selectedAnswer !== null) {
+    } else if (selectedAnswer !== null && randomQuestion !== null) {
       if (randomQuestion.value === selectedAnswer) {
         setCorrectnessStatus("correct");
       } else {
@@ -119,12 +125,13 @@ const App = function () {
   };
 
   const handleNextQuestion = () => {
-    evaluateAnswer();
+    evaluateAnswer(skippedQuestion); // Pass the skipped state to evaluateAnswer
 
     if (questionCounter < maxQuestions) {
       setRandomQuestion(getRandomQuestion());
       setSelectedAnswer(null);
       setCorrectnessStatus(null);
+      setSkippedQuestion(false); // Reset the skipped state for the next question
     } else {
       setDisplayedQuestions([]);
       setIncorrectQuestionIds("");
@@ -172,23 +179,28 @@ const App = function () {
         ></div>
       )}
       {isTestStarted && randomQuestion && questionCounter <= maxQuestions && (
-        <div className="true-false-buttons">
-          <label>
-            <input
-              type="checkbox"
-              checked={selectedAnswer === true}
-              onChange={() => checkAnswer(true)}
-            />
-            True
-          </label>
-          <label>
-            <input
-              type="checkbox"
-              checked={selectedAnswer === false}
-              onChange={() => checkAnswer(false)}
-            />
-            False
-          </label>
+        <div>
+          <div className="true-false-buttons">
+            <label>
+              <input
+                type="checkbox"
+                checked={selectedAnswer === true}
+                onChange={() => checkAnswer(true)}
+              />
+              True
+            </label>
+            <label>
+              <input
+                type="checkbox"
+                checked={selectedAnswer === false}
+                onChange={() => checkAnswer(false)}
+              />
+              False
+            </label>
+          </div>
+          <button className="skip-button" onClick={skipQuestion}>
+            Skip Question
+          </button>
         </div>
       )}
       {correctnessStatus && (
